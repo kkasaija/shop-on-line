@@ -97,8 +97,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd shop-on-line
-  git clone git@github.com:kkasaija/shop-on-line.git
+  cd shop-on-line-frontend
+  git clone git@github.com:kkasaija/shop-on-line-frontend.git
 ```
 
 ### Install
@@ -106,7 +106,7 @@ Example commands:
 Install this project with:
 
 ```sh
-  cd shop-on-line
+  cd shop-on-line-frontend
 ```
 
 ```sh
@@ -173,9 +173,9 @@ Example:
 ### 🤝 Contributing <a id="contributing"></a>
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check
-[issues page](https://github.com/kkasaija/shop-on-line/issues).<br> You can also
-take a look at the
-[contributing guide](https://github.com/kkasaija/shop-on-line/blob/main/docs/CONTRIBUTIONS_GUIDELINES.md).
+[issues page](https://github.com/kkasaija/shop-on-line-frontend/issues).<br> You
+can also take a look at the
+[contributing guide](https://github.com/kkasaija/shop-on-line-frontend/blob/main/docs/CONTRIBUTIONS_GUIDELINES.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
