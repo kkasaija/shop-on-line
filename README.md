@@ -175,7 +175,7 @@ Example:
 Contributions, issues and feature requests are welcome!<br />Feel free to check
 [issues page](https://github.com/kkasaija/shop-on-line/issues).<br> You can also
 take a look at the
-[contributing guide](ssh://git@github.com/kkasaija/shop-on-line/blob/master/CONTRIBUTING.md).
+[contributing guide](https://github.com/kkasaija/shop-on-line/blob/main/docs/CONTRIBUTIONS_GUIDELINES.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
