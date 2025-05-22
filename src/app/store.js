@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import productReducer, { productFetch } from './features/productSlice';
+import productReducer, { productFetch } from '../features/productSlice';
 
 const store = configureStore({
   reducer: {
